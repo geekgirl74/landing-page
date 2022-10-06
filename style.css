@@ -49,3 +49,21 @@ a {
     justify-content: center;
 
 }
+
+.title {
+    margin-bottom: 32px;
+    font-size: 36px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.info {
+    max-width: 200px;
+}
