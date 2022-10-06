@@ -36,3 +36,16 @@ a {
     flex-wrap: wrap;
 
 }
+
+.join-button {
+    background: #eee;
+    color: #888;
+    font-weight: 400;
+    font-size: 16px;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
