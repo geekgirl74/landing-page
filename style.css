@@ -85,3 +85,9 @@ a {
     flex-wrap: wrap;
 
 }
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+
+}
